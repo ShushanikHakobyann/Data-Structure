@@ -1,4 +1,4 @@
-✈️ Flight Connection Optimizer
+Flight Connection Optimizer
 Live Demo
 This project also includes a web-based demo version built with HTML, CSS, and JavaScript.
 
@@ -70,7 +70,7 @@ Elen Ghazaryan
 
 Contributions
 
-👩‍💻 Shushanik Hakobyan
+ Shushanik Hakobyan
 
 ~Implemented core graph structure
 
@@ -82,7 +82,7 @@ Contributions
 
 ~Handled edge cases and algorithm logic
 
-👩‍💼 Elen Ghazaryan
+ Elen Ghazaryan
 
 ~Managed project coordination and workflow
 
