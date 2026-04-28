@@ -1,4 +1,4 @@
-# ✈ Flight Connection Optimizer
+# Flight Connection Optimizer
 
 ##  Description
 This project is a flight network analyzer implemented in C++ using graph data structures.
